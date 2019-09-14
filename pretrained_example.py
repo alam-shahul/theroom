@@ -13,7 +13,7 @@ import numpy as np
 import PIL.Image
 import dnnlib
 import dnnlib.tflib as tflib
-import src.config as config
+import config
 
 def main():
     # Initialize TensorFlow.
